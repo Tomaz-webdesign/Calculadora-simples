@@ -1,2 +1,2 @@
 # Calculadora-simples
-Calculadora simples com html,csse javascript
+Calculadora simples com html,css e javascript
